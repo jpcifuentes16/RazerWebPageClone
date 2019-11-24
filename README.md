@@ -4,8 +4,8 @@ Este proyecto es una copia de la página web de [Razer](https://www.razer.com/) 
 ## Tecnologías web utilizadas 
 - React       — v16.10.2
 - Babel       — v7.6.4
-- Webpack     — v4.41.1
-- Lint        —
+- Webpack     — v4.41.1 Empaquetador de módulos
+- Lint        — Eslint v10.0.0
 - img-loader  — v3.0.1
 - url-loader  — v2.2.0
 
@@ -19,7 +19,6 @@ Este proyecto es una copia de la página web de [Razer](https://www.razer.com/) 
 ## Comandos útiles
 - `npm start` - para correr el servidor local utilizando webpack
 - `npm run build` - para empaquetar el proyecto listo para producción, utilizando webpack
-- `npm run lint` - para realizar revisión con Eslint
 
 ## Desarrollador
 - [José Cifuentes](https://github.com/josepablito16) :100:
