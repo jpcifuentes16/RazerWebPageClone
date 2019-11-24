@@ -1,0 +1,11 @@
+.App{
+	background-color: red;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 18px;
+}
+
+

@@ -1,0 +1,61 @@
+footer {
+	position: relative;
+    padding: 3.125rem .625rem;
+    line-height: 0.7;
+}
+
+p
+{
+	font-size: 13px;
+	color: #888;
+	font-family: Arial;
+	line-height: 0.9;
+}
+
+.creditos
+{
+	text-align: center;
+	padding-top: 15px;
+	font-size: .75rem;
+}
+
+.pTitle
+{
+	color: #fff;
+}
+
+.footer-grid {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top: 50px;
+  
+}
+
+.Facebook
+{
+	background: url(https://assets2.razerzone.com/images/icon/fb-footer-icon.png) no-repeat;
+    background-position-x: left;
+    padding-left: 25px;
+    display: block;
+    height: 20px;
+}
+
+.Twitter
+{
+	background: url(https://assets2.razerzone.com/images/icon/twitter-footer-icon.png) no-repeat;
+    background-position-x: left;
+    padding-left: 25px;
+    display: block;
+    height: 20px;
+}
+
+.Instagram
+{
+	background: url(https://assets2.razerzone.com/images/icon/instagram-footer-icon.png) no-repeat;
+    background-position-x: left;
+    padding-left: 25px;
+    display: block;
+    height: 20px;
+}
