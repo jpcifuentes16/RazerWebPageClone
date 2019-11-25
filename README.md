@@ -8,6 +8,7 @@ Este proyecto es una copia de la página web de [Razer](https://www.razer.com/) 
 - Lint        — Eslint v10.0.0
 - img-loader  — v3.0.1
 - url-loader  — v2.2.0
+- Sass        — v4.13.0
 
 ## Instalación
 1. Abrir terminal y ejecutar lo siguiente:
